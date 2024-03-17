@@ -1,4 +1,5 @@
-# Atividade 3 - Front-End - Pós graduação em desenvolvimento Web - IFSP
+# Atividade 3 - Front-End -
+ Pós graduação em desenvolvimento Web - IFSP
 
  Atividade desenvolvida para a disciplina de Desesenvolvimento frontend do curso de pós graduação em Desenvolvimento Web do Instituto Federal de São Paulo
 
@@ -16,7 +17,7 @@ Página em HTML "navbar.html" que contém uma navbar com links, campo de busca e
 
 ## Acessando os Arquivos no GitHub
 
-Abrir os arquivos em html "galeria_fotos" "cards.html" e "navbar" 
-Os arquivos CSS estão na pasta 'styles'
+Abrir os arquivos em html ´galeria_foto´ ´cards.html´ e ´navbar´ 
+Os arquivos CSS estão na pasta ´styles´
 
 Atividade 3 de Front-End - Pós-graduação em Desenvolvimento Web do IFSP
