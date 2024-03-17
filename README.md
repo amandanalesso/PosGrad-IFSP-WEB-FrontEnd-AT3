@@ -1,4 +1,4 @@
-# Atividade 3 de Front-End - Pós graduação em desenvolvimento Web - IFSP
+# Atividade 3 - Front-End - Pós graduação em desenvolvimento Web - IFSP
 
  Atividade desenvolvida para a disciplina de Desesenvolvimento frontend do curso de pós graduação em Desenvolvimento Web do Instituto Federal de São Paulo
 
