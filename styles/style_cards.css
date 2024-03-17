@@ -1,7 +1,6 @@
 body{
 font-family: poppins;
 }
-
 .container{
     display: flex;
     flex-wrap: wrap;
@@ -10,7 +9,6 @@ font-family: poppins;
     margin: 0 auto;
     padding: 10px; 
 }
-
 .card-box{
     flex-basis: 30%;
     border: 1px solid #ddd;
@@ -19,23 +17,17 @@ font-family: poppins;
     margin-right: 20px;
     margin-bottom: 20px;   
 }
-
 h3 {
     text-align: center;
 }
-
-.card-box img{
-    
+.card-box img{    
     width: 100%;
     height: auto;
     display: block;
 }
-
-
 .card-content {
     padding:20px;
 }
-
 .btn-card{
     width: 100%;
     padding: 10px 20px;
@@ -48,5 +40,4 @@ h3 {
     display: inline block;
     cursor: pointer;
     font-family: poppins;
-
 }
