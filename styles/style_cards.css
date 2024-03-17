@@ -1,5 +1,5 @@
 body{
-font-family: poppins;
+font-family: poppins, sans-serif;
 }
 .container{
     display: flex;
@@ -39,5 +39,5 @@ h3 {
     text-decoration: none;
     display: inline block;
     cursor: pointer;
-    font-family: poppins;
+    font-family: poppins, sans-serif;
 }

@@ -33,7 +33,7 @@ body {
     border: 1px solid white;
     height: 30px;
     color: #CCCCCC;
-    font-family: poppins;
+    font-family: poppins, sans-serif;
 }
 .search-items input::placeholder {
     color: #877dc4;
@@ -46,7 +46,7 @@ body {
     color: #6A5ACD;
     cursor: pointer;
     background-color: #ffffff; 
-    font-family: poppins;
+    font-family: poppins, sans-serif;
     text-align: center;
     line-height: 30px;
 }
